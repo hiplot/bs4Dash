@@ -20,7 +20,7 @@ addDeps <- function(x, theme) {
   jquery_ui_js <- "jquery-ui.min.js"
   bootstrap_js <- "bootstrap.bundle.min.js"
   old_school_css <- "https://bootswatch.com/4/sketchy/"
-  fontawesome_css <- "https://use.fontawesome.com/releases/v5.0.13/css/"
+  fontawesome_css <- "https://hiplot.com.cn/fonts/fontawesome/5.11.2/css/"
   ionicons_css <- "https://unpkg.com/ionicons@4.4.2/dist/css/"
   google_fonts <- "https://fonts.googleapis.com/css?family=Source+Sans+Pro:300,400,400i,700"
   
